@@ -9,7 +9,7 @@ int main()
     printf("Enter a value C-");
     scanf("%d" ,& c);
 
-     if (a>b){
+    if (a>b){
         printf("a is greater than b\n");
     }
      else if(b>a){
